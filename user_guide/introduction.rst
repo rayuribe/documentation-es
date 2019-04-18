@@ -1,10 +1,10 @@
 Introducción
 ============
 
-Kanban vs Todo lists
+Kanban vs Lista de Tareas (To-Do List)
 --------------------
 
-Todo lists (lista de tareas) :
+Lista de Tareas (To-Do List) :
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Fase unica (es solo una lista de tareas)
